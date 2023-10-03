@@ -1,5 +1,4 @@
 const { Client, Collection } = require('discord.js');
-const { Colors, BetterConsoleLogger } = require('discord.js-v14-helper');
 const chalk = require('chalk');
 const fs = require('fs');
 const config = require('./config/main');
